@@ -25,5 +25,6 @@ if ( $opcion == 1 ) {
 elsif ( $opcion == 2) {
      print "No hace nada\n";
 }
-else
+else{
      print "Opcion no valida\n";
+}     
